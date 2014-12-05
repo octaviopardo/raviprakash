@@ -1,0 +1,1414 @@
+feature abvs {
+script telu;
+lookup abvs0 {
+sub [U0C15 U0C16 U0C17 U0C18 U0C19 U0C1A U0C1B U0C1C U0C1D U0C1E U0C1F U0C20 U0C21 U0C22 U0C23 U0C24 U0C25 U0C26 U0C27 U0C28 U0C2A U0C2B U0C2C U0C2D U0C2E U0C2F U0C30 U0C31 U0C32 U0C33 U0C35 U0C36 U0C37 U0C38 U0C39 ]' U0C48 by  [U0C15_U0C46.abvs U0C56 U0C15_U0C46.abvs U0C56 U0C16_U0C46.abvs U0C56 U0C16_U0C46.abvs U0C56 U0C17_U0C46.abvs U0C56 U0C17_U0C46.abvs U0C56 U0C18_U0C46.abvs U0C56 U0C18_U0C46.abvs U0C56 U0C19_U0C46.abvs U0C56 U0C19_U0C46.abvs U0C56 U0C1A_U0C46.abvs U0C56 U0C1A_U0C46.abvs U0C56 U0C1B_U0C46.abvs U0C56 U0C1B_U0C46.abvs U0C56 U0C1C_U0C46.abvs U0C56 U0C1C_U0C46.abvs U0C56 U0C1D_U0C46.abvs U0C56 U0C1D_U0C46.abvs U0C56 U0C1E_U0C46.abvs U0C56 U0C1E_U0C46.abvs U0C56 U0C1F_U0C46.abvs U0C56 U0C1F_U0C46.abvs U0C56 U0C20_U0C46.abvs U0C56 U0C20_U0C46.abvs U0C56 U0C21_U0C46.abvs U0C56 U0C21_U0C46.abvs U0C56 U0C22_U0C46.abvs U0C56 U0C22_U0C46.abvs U0C56 U0C23_U0C46.abvs U0C56 U0C23_U0C46.abvs U0C56 U0C24_U0C46.abvs U0C56 U0C24_U0C46.abvs U0C56 U0C25_U0C46.abvs U0C56 U0C25_U0C46.abvs U0C56 U0C26_U0C46.abvs U0C56 U0C26_U0C46.abvs U0C56 U0C27_U0C46.abvs U0C56 U0C27_U0C46.abvs U0C56 U0C28_U0C46.abvs U0C56 U0C28_U0C46.abvs U0C56 U0C2A_U0C46.abvs U0C56 U0C2A_U0C46.abvs U0C56 U0C2B_U0C46.abvs U0C56 U0C2B_U0C46.abvs U0C56 U0C2C_U0C46.abvs U0C56 U0C2C_U0C46.abvs U0C56 U0C2D_U0C46.abvs U0C56 U0C2D_U0C46.abvs U0C56 U0C2E_U0C46.abvs U0C56 U0C2E_U0C46.abvs U0C56 U0C2F_U0C46.abvs U0C56 U0C2F_U0C46.abvs U0C56 U0C30_U0C46.abvs U0C56 U0C30_U0C46.abvs U0C56 U0C31_U0C46.abvs U0C56 U0C31_U0C46.abvs U0C56 U0C32_U0C46.abvs U0C56 U0C32_U0C46.abvs U0C56 U0C33_U0C46.abvs U0C56 U0C33_U0C46.abvs U0C56 U0C35_U0C46.abvs U0C56 U0C35_U0C46.abvs U0C56 U0C36_U0C46.abvs U0C56 U0C36_U0C46.abvs U0C56 U0C37_U0C46.abvs U0C56 U0C37_U0C46.abvs U0C56 U0C38_U0C46.abvs U0C56 U0C38_U0C46.abvs U0C56 U0C39_U0C46.abvs U0C56 U0C39_U0C46.abvs U0C56 ];
+} abvs0;
+lookup abvs1 {
+sub U0C15 U0C4A by U0C15_U0C4A.abvs;
+sub U0C15 U0C47 by U0C15_U0C47.abvs;
+sub U0C15 U0C46 by U0C15_U0C46.abvs;
+sub U0C15 U0C4C by U0C15_U0C4C.abvs;
+sub U0C15 U0C40 by U0C15_U0C40.abvs;
+sub U0C15 U0C3F by U0C15_U0C3F.abvs;
+sub U0C15 U0C4B by U0C15_U0C4B.abvs;
+sub U0C15 U0C3E by U0C15_U0C3E.abvs;
+sub U0C16 U0C4C by U0C16_U0C4C.abvs;
+sub U0C16 U0C4B by U0C16_U0C4B.abvs;
+sub U0C16 U0C4A by U0C16_U0C4A.abvs;
+sub U0C16 U0C47 by U0C16_U0C47.abvs;
+sub U0C16 U0C46 by U0C16_U0C46.abvs;
+sub U0C16 U0C40 by U0C16_U0C40.abvs;
+sub U0C16 U0C3F by U0C16_U0C3F.abvs;
+sub U0C16 U0C3E by U0C16_U0C3E.abvs;
+sub U0C17 U0C4C by U0C17_U0C4C.abvs;
+sub U0C17 U0C4B by U0C17_U0C4B.abvs;
+sub U0C17 U0C4A by U0C17_U0C4A.abvs;
+sub U0C17 U0C47 by U0C17_U0C47.abvs;
+sub U0C17 U0C46 by U0C17_U0C46.abvs;
+sub U0C17 U0C40 by U0C17_U0C40.abvs;
+sub U0C17 U0C3F by U0C17_U0C3F.abvs;
+sub U0C17 U0C3E by U0C17_U0C3E.abvs;
+sub U0C18 U0C4C by U0C18_U0C4C.abvs;
+sub U0C18 U0C4B by U0C18_U0C4B.abvs;
+sub U0C18 U0C4A by U0C18_U0C4A.abvs;
+sub U0C18 U0C47 by U0C18_U0C47.abvs;
+sub U0C18 U0C46 by U0C18_U0C46.abvs;
+sub U0C18 U0C40 by U0C18_U0C40.abvs;
+sub U0C18 U0C3F by U0C18_U0C3F.abvs;
+sub U0C18 U0C3E by U0C18_U0C3E.abvs;
+sub U0C19 U0C4C by U0C19_U0C4C.abvs;
+sub U0C19 U0C4B by U0C19_U0C4B.abvs;
+sub U0C19 U0C4A by U0C19_U0C4A.abvs;
+sub U0C19 U0C47 by U0C19_U0C47.abvs;
+sub U0C19 U0C46 by U0C19_U0C46.abvs;
+sub U0C19 U0C40 by U0C19_U0C40.abvs;
+sub U0C19 U0C3F by U0C19_U0C3F.abvs;
+sub U0C19 U0C3E by U0C19_U0C3E.abvs;
+sub U0C1A U0C4C by U0C1A_U0C4C.abvs;
+sub U0C1A U0C4B by U0C1A_U0C4B.abvs;
+sub U0C1A U0C4A by U0C1A_U0C4A.abvs;
+sub U0C1A U0C47 by U0C1A_U0C47.abvs;
+sub U0C1A U0C46 by U0C1A_U0C46.abvs;
+sub U0C1A U0C40 by U0C1A_U0C40.abvs;
+sub U0C1A U0C3F by U0C1A_U0C3F.abvs;
+sub U0C1A U0C3E by U0C1A_U0C3E.abvs;
+sub U0C1B U0C4C by U0C1B_U0C4C.abvs;
+sub U0C1B U0C4B by U0C1B_U0C4B.abvs;
+sub U0C1B U0C4A by U0C1B_U0C4A.abvs;
+sub U0C1B U0C47 by U0C1B_U0C47.abvs;
+sub U0C1B U0C46 by U0C1B_U0C46.abvs;
+sub U0C1B U0C40 by U0C1B_U0C40.abvs;
+sub U0C1B U0C3F by U0C1B_U0C3F.abvs;
+sub U0C1B U0C3E by U0C1B_U0C3E.abvs;
+sub U0C1C U0C4C by U0C1C_U0C4C.abvs;
+sub U0C1C U0C4B by U0C1C_U0C4B.abvs;
+sub U0C1C U0C4A by U0C1C_U0C4A.abvs;
+sub U0C1C U0C47 by U0C1C_U0C47.abvs;
+sub U0C1C U0C46 by U0C1C_U0C46.abvs;
+sub U0C1C U0C40 by U0C1C_U0C40.abvs;
+sub U0C1C U0C3F by U0C1C_U0C3F.abvs;
+sub U0C1C U0C3E by U0C1C_U0C3E.abvs;
+sub U0C1D U0C4C by U0C1D_U0C4C.abvs;
+sub U0C1D U0C4B by U0C1D_U0C4B.abvs;
+sub U0C1D U0C4A by U0C1D_U0C4A.abvs;
+sub U0C1D U0C47 by U0C1D_U0C47.abvs;
+sub U0C1D U0C46 by U0C1D_U0C46.abvs;
+sub U0C1D U0C40 by U0C1D_U0C40.abvs;
+sub U0C1D U0C3F by U0C1D_U0C3F.abvs;
+sub U0C1D U0C3E by U0C1D_U0C3E.abvs;
+sub U0C1E U0C4C by U0C1E_U0C4C.abvs;
+sub U0C1E U0C4B by U0C1E_U0C4B.abvs;
+sub U0C1E U0C4A by U0C1E_U0C4A.abvs;
+sub U0C1E U0C47 by U0C1E_U0C47.abvs;
+sub U0C1E U0C46 by U0C1E_U0C46.abvs;
+sub U0C1E U0C40 by U0C1E_U0C40.abvs;
+sub U0C1E U0C3F by U0C1E_U0C3F.abvs;
+sub U0C1E U0C3E by U0C1E_U0C3E.abvs;
+sub U0C1F U0C4C by U0C1F_U0C4C.abvs;
+sub U0C1F U0C4B by U0C1F_U0C4B.abvs;
+sub U0C1F U0C4A by U0C1F_U0C4A.abvs;
+sub U0C1F U0C47 by U0C1F_U0C47.abvs;
+sub U0C1F U0C46 by U0C1F_U0C46.abvs;
+sub U0C1F U0C40 by U0C1F_U0C40.abvs;
+sub U0C1F U0C3F by U0C1F_U0C3F.abvs;
+sub U0C1F U0C3E by U0C1F_U0C3E.abvs;
+sub U0C20 U0C4C by U0C20_U0C4C.abvs;
+sub U0C20 U0C4B by U0C20_U0C4B.abvs;
+sub U0C20 U0C4A by U0C20_U0C4A.abvs;
+sub U0C20 U0C47 by U0C20_U0C47.abvs;
+sub U0C20 U0C46 by U0C20_U0C46.abvs;
+sub U0C20 U0C40 by U0C20_U0C40.abvs;
+sub U0C20 U0C3F by U0C20_U0C3F.abvs;
+sub U0C20 U0C3E by U0C20_U0C3E.abvs;
+sub U0C21 U0C4C by U0C21_U0C4C.abvs;
+sub U0C21 U0C4B by U0C21_U0C4B.abvs;
+sub U0C21 U0C4A by U0C21_U0C4A.abvs;
+sub U0C21 U0C47 by U0C21_U0C47.abvs;
+sub U0C21 U0C46 by U0C21_U0C46.abvs;
+sub U0C21 U0C40 by U0C21_U0C40.abvs;
+sub U0C21 U0C3F by U0C21_U0C3F.abvs;
+sub U0C21 U0C3E by U0C21_U0C3E.abvs;
+sub U0C22 U0C4C by U0C22_U0C4C.abvs;
+sub U0C22 U0C4B by U0C22_U0C4B.abvs;
+sub U0C22 U0C4A by U0C22_U0C4A.abvs;
+sub U0C22 U0C47 by U0C22_U0C47.abvs;
+sub U0C22 U0C46 by U0C22_U0C46.abvs;
+sub U0C22 U0C40 by U0C22_U0C40.abvs;
+sub U0C22 U0C3F by U0C22_U0C3F.abvs;
+sub U0C22 U0C3E by U0C22_U0C3E.abvs;
+sub U0C23 U0C4C by U0C23_U0C4C.abvs;
+sub U0C23 U0C4B by U0C23_U0C4B.abvs;
+sub U0C23 U0C4A by U0C23_U0C4A.abvs;
+sub U0C23 U0C47 by U0C23_U0C47.abvs;
+sub U0C23 U0C46 by U0C23_U0C46.abvs;
+sub U0C23 U0C40 by U0C23_U0C40.abvs;
+sub U0C23 U0C3F by U0C23_U0C3F.abvs;
+sub U0C23 U0C3E by U0C23_U0C3E.abvs;
+sub U0C24 U0C4C by U0C24_U0C4C.abvs;
+sub U0C24 U0C4B by U0C24_U0C4B.abvs;
+sub U0C24 U0C4A by U0C24_U0C4A.abvs;
+sub U0C24 U0C47 by U0C24_U0C47.abvs;
+sub U0C24 U0C46 by U0C24_U0C46.abvs;
+sub U0C24 U0C40 by U0C24_U0C40.abvs;
+sub U0C24 U0C3F by U0C24_U0C3F.abvs;
+sub U0C24 U0C3E by U0C24_U0C3E.abvs;
+sub U0C25 U0C4C by U0C25_U0C4C.abvs;
+sub U0C25 U0C4B by U0C25_U0C4B.abvs;
+sub U0C25 U0C4A by U0C25_U0C4A.abvs;
+sub U0C25 U0C47 by U0C25_U0C47.abvs;
+sub U0C25 U0C46 by U0C25_U0C46.abvs;
+sub U0C25 U0C40 by U0C25_U0C40.abvs;
+sub U0C25 U0C3F by U0C25_U0C3F.abvs;
+sub U0C25 U0C3E by U0C25_U0C3E.abvs;
+sub U0C26 U0C4C by U0C26_U0C4C.abvs;
+sub U0C26 U0C4B by U0C26_U0C4B.abvs;
+sub U0C26 U0C4A by U0C26_U0C4A.abvs;
+sub U0C26 U0C47 by U0C26_U0C47.abvs;
+sub U0C26 U0C46 by U0C26_U0C46.abvs;
+sub U0C26 U0C40 by U0C26_U0C40.abvs;
+sub U0C26 U0C3F by U0C26_U0C3F.abvs;
+sub U0C26 U0C3E by U0C26_U0C3E.abvs;
+sub U0C27 U0C4C by U0C27_U0C4C.abvs;
+sub U0C27 U0C4B by U0C27_U0C4B.abvs;
+sub U0C27 U0C4A by U0C27_U0C4A.abvs;
+sub U0C27 U0C47 by U0C27_U0C47.abvs;
+sub U0C27 U0C46 by U0C27_U0C46.abvs;
+sub U0C27 U0C40 by U0C27_U0C40.abvs;
+sub U0C27 U0C3F by U0C27_U0C3F.abvs;
+sub U0C27 U0C3E by U0C27_U0C3E.abvs;
+sub U0C28 U0C4C by U0C28_U0C4C.abvs;
+sub U0C28 U0C4B by U0C28_U0C4B.abvs;
+sub U0C28 U0C4A by U0C28_U0C4A.abvs;
+sub U0C28 U0C47 by U0C28_U0C47.abvs;
+sub U0C28 U0C46 by U0C28_U0C46.abvs;
+sub U0C28 U0C40 by U0C28_U0C40.abvs;
+sub U0C28 U0C3F by U0C28_U0C3F.abvs;
+sub U0C28 U0C3E by U0C28_U0C3E.abvs;
+sub U0C2A U0C4C by U0C2A_U0C4C.abvs;
+sub U0C2A U0C4B by U0C2A_U0C4B.abvs;
+sub U0C2A U0C4A by U0C2A_U0C4A.abvs;
+sub U0C2A U0C47 by U0C2A_U0C47.abvs;
+sub U0C2A U0C46 by U0C2A_U0C46.abvs;
+sub U0C2A U0C40 by U0C2A_U0C40.abvs;
+sub U0C2A U0C3F by U0C2A_U0C3F.abvs;
+sub U0C2A U0C3E by U0C2A_U0C3E.abvs;
+sub U0C2B U0C4C by U0C2B_U0C4C.abvs;
+sub U0C2B U0C4B by U0C2B_U0C4B.abvs;
+sub U0C2B U0C4A by U0C2B_U0C4A.abvs;
+sub U0C2B U0C47 by U0C2B_U0C47.abvs;
+sub U0C2B U0C46 by U0C2B_U0C46.abvs;
+sub U0C2B U0C40 by U0C2B_U0C40.abvs;
+sub U0C2B U0C3F by U0C2B_U0C3F.abvs;
+sub U0C2B U0C3E by U0C2B_U0C3E.abvs;
+sub U0C2C U0C4C by U0C2C_U0C4C.abvs;
+sub U0C2C U0C4B by U0C2C_U0C4B.abvs;
+sub U0C2C U0C4A by U0C2C_U0C4A.abvs;
+sub U0C2C U0C47 by U0C2C_U0C47.abvs;
+sub U0C2C U0C46 by U0C2C_U0C46.abvs;
+sub U0C2C U0C40 by U0C2C_U0C40.abvs;
+sub U0C2C U0C3F by U0C2C_U0C3F.abvs;
+sub U0C2C U0C3E by U0C2C_U0C3E.abvs;
+sub U0C2D U0C4C by U0C2D_U0C4C.abvs;
+sub U0C2D U0C4B by U0C2D_U0C4B.abvs;
+sub U0C2D U0C4A by U0C2D_U0C4A.abvs;
+sub U0C2D U0C47 by U0C2D_U0C47.abvs;
+sub U0C2D U0C46 by U0C2D_U0C46.abvs;
+sub U0C2D U0C40 by U0C2D_U0C40.abvs;
+sub U0C2D U0C3F by U0C2D_U0C3F.abvs;
+sub U0C2D U0C3E by U0C2D_U0C3E.abvs;
+sub U0C2E U0C4C by U0C2E_U0C4C.abvs;
+sub U0C2E U0C4B by U0C2E_U0C4B.abvs;
+sub U0C2E U0C4A by U0C2E_U0C4A.abvs;
+sub U0C2E U0C47 by U0C2E_U0C47.abvs;
+sub U0C2E U0C46 by U0C2E_U0C46.abvs;
+sub U0C2E U0C40 by U0C2E_U0C40.abvs;
+sub U0C2E U0C3F by U0C2E_U0C3F.abvs;
+sub U0C2E U0C3E by U0C2E_U0C3E.abvs;
+sub U0C2F U0C4C by U0C2F_U0C4C.abvs;
+sub U0C2F U0C4B by U0C2F_U0C4B.abvs;
+sub U0C2F U0C4A by U0C2F_U0C4A.abvs;
+sub U0C2F U0C47 by U0C2F_U0C47.abvs;
+sub U0C2F U0C46 by U0C2F_U0C46.abvs;
+sub U0C2F U0C40 by U0C2F_U0C40.abvs;
+sub U0C2F U0C3F by U0C2F_U0C3F.abvs;
+sub U0C2F U0C3E by U0C2F_U0C3E.abvs;
+sub U0C30 U0C4C by U0C30_U0C4C.abvs;
+sub U0C30 U0C4B by U0C30_U0C4B.abvs;
+sub U0C30 U0C4A by U0C30_U0C4A.abvs;
+sub U0C30 U0C47 by U0C30_U0C47.abvs;
+sub U0C30 U0C46 by U0C30_U0C46.abvs;
+sub U0C30 U0C40 by U0C30_U0C40.abvs;
+sub U0C30 U0C3F by U0C30_U0C3F.abvs;
+sub U0C30 U0C3E by U0C30_U0C3E.abvs;
+sub U0C31 U0C4C by U0C31_U0C4C.abvs;
+sub U0C31 U0C4B by U0C31_U0C4B.abvs;
+sub U0C31 U0C4A by U0C31_U0C4A.abvs;
+sub U0C31 U0C47 by U0C31_U0C47.abvs;
+sub U0C31 U0C46 by U0C31_U0C46.abvs;
+sub U0C31 U0C40 by U0C31_U0C40.abvs;
+sub U0C31 U0C3F by U0C31_U0C3F.abvs;
+sub U0C31 U0C3E by U0C31_U0C3E.abvs;
+sub U0C32 U0C4C by U0C32_U0C4C.abvs;
+sub U0C32 U0C4B by U0C32_U0C4B.abvs;
+sub U0C32 U0C4A by U0C32_U0C4A.abvs;
+sub U0C32 U0C47 by U0C32_U0C47.abvs;
+sub U0C32 U0C46 by U0C32_U0C46.abvs;
+sub U0C32 U0C40 by U0C32_U0C40.abvs;
+sub U0C32 U0C3F by U0C32_U0C3F.abvs;
+sub U0C32 U0C3E by U0C32_U0C3E.abvs;
+sub U0C33 U0C4C by U0C33_U0C4C.abvs;
+sub U0C33 U0C4B by U0C33_U0C4B.abvs;
+sub U0C33 U0C4A by U0C33_U0C4A.abvs;
+sub U0C33 U0C47 by U0C33_U0C47.abvs;
+sub U0C33 U0C46 by U0C33_U0C46.abvs;
+sub U0C33 U0C40 by U0C33_U0C40.abvs;
+sub U0C33 U0C3F by U0C33_U0C3F.abvs;
+sub U0C33 U0C3E by U0C33_U0C3E.abvs;
+sub U0C35 U0C4C by U0C35_U0C4C.abvs;
+sub U0C35 U0C4B by U0C35_U0C4B.abvs;
+sub U0C35 U0C4A by U0C35_U0C4A.abvs;
+sub U0C35 U0C47 by U0C35_U0C47.abvs;
+sub U0C35 U0C46 by U0C35_U0C46.abvs;
+sub U0C35 U0C40 by U0C35_U0C40.abvs;
+sub U0C35 U0C3F by U0C35_U0C3F.abvs;
+sub U0C35 U0C3E by U0C35_U0C3E.abvs;
+sub U0C36 U0C4C by U0C36_U0C4C.abvs;
+sub U0C36 U0C4B by U0C36_U0C4B.abvs;
+sub U0C36 U0C4A by U0C36_U0C4A.abvs;
+sub U0C36 U0C47 by U0C36_U0C47.abvs;
+sub U0C36 U0C46 by U0C36_U0C46.abvs;
+sub U0C36 U0C40 by U0C36_U0C40.abvs;
+sub U0C36 U0C3F by U0C36_U0C3F.abvs;
+sub U0C36 U0C3E by U0C36_U0C3E.abvs;
+sub U0C37 U0C4C by U0C37_U0C4C.abvs;
+sub U0C37 U0C4B by U0C37_U0C4B.abvs;
+sub U0C37 U0C4A by U0C37_U0C4A.abvs;
+sub U0C37 U0C47 by U0C37_U0C47.abvs;
+sub U0C37 U0C46 by U0C37_U0C46.abvs;
+sub U0C37 U0C40 by U0C37_U0C40.abvs;
+sub U0C37 U0C3F by U0C37_U0C3F.abvs;
+sub U0C37 U0C3E by U0C37_U0C3E.abvs;
+sub U0C38 U0C4C by U0C38_U0C4C.abvs;
+sub U0C38 U0C4B by U0C38_U0C4B.abvs;
+sub U0C38 U0C4A by U0C38_U0C4A.abvs;
+sub U0C38 U0C47 by U0C38_U0C47.abvs;
+sub U0C38 U0C46 by U0C38_U0C46.abvs;
+sub U0C38 U0C40 by U0C38_U0C40.abvs;
+sub U0C38 U0C3F by U0C38_U0C3F.abvs;
+sub U0C38 U0C3E by U0C38_U0C3E.abvs;
+sub U0C39 U0C4C by U0C39_U0C4C.abvs;
+sub U0C39 U0C4B by U0C39_U0C4B.abvs;
+sub U0C39 U0C4A by U0C39_U0C4A.abvs;
+sub U0C39 U0C47 by U0C39_U0C47.abvs;
+sub U0C39 U0C46 by U0C39_U0C46.abvs;
+sub U0C39 U0C40 by U0C39_U0C40.abvs;
+sub U0C39 U0C3F by U0C39_U0C3F.abvs;
+sub U0C39 U0C3E by U0C39_U0C3E.abvs;
+sub U0C58 U0C3E by U0C58_0C3E;
+sub uni0C59 U0C3E by U0C59_U0C3E;
+} abvs1;
+lookup abvs2 {
+sub U0C48 by uni0000;
+} abvs2;
+} abvs;
+
+feature akhn {
+script telu;
+sub U0C15 U0C46 U0C56 U0C37 U0C4D by U0C15_U0C46_U0C56_U0C37_U0C4D.akhn;
+sub U0C15 U0C42 U0C37 U0C4D by U0C15_U0C42_U0C37_U0C4D.akhn;
+sub U0C15 U0C41 U0C37 U0C4D by U0C15_U0C41_U0C37_U0C4D.akhn;
+sub U0C15 U0C4C U0C37 U0C4D by U0C15_U0C4C_U0C37_U0C4D.akhn;
+sub U0C15 U0C4B U0C37 U0C4D by U0C15_U0C4B_U0C37_U0C4D.akhn;
+sub U0C15 U0C4A U0C37 U0C4D by U0C15_U0C4A_U0C37_U0C4D.akhn;
+sub U0C15 U0C47 U0C37 U0C4D by U0C15_U0C47_U0C37_U0C4D.akhn;
+sub U0C15 U0C46 U0C37 U0C4D by U0C15_U0C46_U0C37_U0C4D.akhn;
+sub U0C15 U0C40 U0C37 U0C4D by U0C15_U0C40_U0C37_U0C4D.akhn;
+sub U0C15 U0C3F U0C37 U0C4D by U0C15_U0C3F_U0C37_U0C4D.akhn;
+sub U0C15 U0C3E U0C37 U0C4D by U0C15_U0C3E_U0C37_U0C4D.akhn;
+sub U0C15 U0C37 U0C4D by U0C15_U0C37_U0C4D.akhn;
+} akhn;
+
+feature blwf {
+script telu;
+sub U0C15 U0C4D by U0C15_U0C4D.blwf;
+sub U0C16 U0C4D by U0C16_U0C4D.blwf;
+sub U0C17 U0C4D by U0C17_U0C4D.blwf;
+sub U0C18 U0C4D by U0C18_U0C4D.blwf;
+sub U0C19 U0C4D by U0C19_U0C4D.blwf;
+sub U0C1A U0C4D by U0C1A_U0C4D.blwf;
+sub U0C1B U0C4D by U0C1B_U0C4D.blwf;
+sub U0C1C U0C4D by U0C1C_U0C4D.blwf;
+sub U0C1D U0C4D by U0C1D_U0C4D.blwf;
+sub U0C1E U0C4D by U0C1E_U0C4D.blwf;
+sub U0C1F U0C4D by U0C1F_U0C4D.blwf;
+sub U0C20 U0C4D by U0C20_U0C4D.blwf;
+sub U0C21 U0C4D by U0C21_U0C4D.blwf;
+sub U0C22 U0C4D by U0C22_U0C4D.blwf;
+sub U0C23 U0C4D by U0C23_U0C4D.blwf;
+sub U0C24 U0C4D by U0C24_U0C4D.blwf;
+sub U0C25 U0C4D by U0C25_U0C4D.blwf;
+sub U0C26 U0C4D by U0C26_U0C4D.blwf;
+sub U0C27 U0C4D by U0C27_U0C4D.blwf;
+sub U0C28 U0C4D by U0C28_U0C4D.blwf;
+sub U0C2A U0C4D by U0C2A_U0C4D.blwf;
+sub U0C2B U0C4D by U0C2B_U0C4D.blwf;
+sub U0C2C U0C4D by U0C2C_U0C4D.blwf;
+sub U0C2D U0C4D by U0C2D_U0C4D.blwf;
+sub U0C2E U0C4D by U0C2E_U0C4D.blwf;
+sub U0C2F U0C4D by U0C2F_U0C4D.blwf;
+sub U0C30 U0C4D by U0C30_U0C4D.blwf;
+sub U0C31 U0C4D by U0C31_U0C4D.blwf;
+sub U0C32 U0C4D by U0C32_U0C4D.blwf;
+sub U0C33 U0C4D by U0C33_U0C4D.blwf;
+sub U0C35 U0C4D by U0C35_U0C4D.blwf;
+sub U0C36 U0C4D by U0C36_U0C4D.blwf;
+sub U0C37 U0C4D by U0C37_U0C4D.blwf;
+sub U0C38 U0C4D by U0C38_U0C4D.blwf;
+sub U0C39 U0C4D by U0C39_U0C4D.blwf;
+sub U0C15_U0C4D.blwf U0C37_U0C4D.blwf by U0C15_U0C4D.blwf_U0C37_U0C4D;
+} blwf;
+
+feature blws {
+sub U0C56' [U0C16_U0C4D.blwf U0C17_U0C4D.blwf U0C18_U0C4D.blwf U0C19_U0C4D.blwf U0C1C_U0C4D.blwf U0C1D_U0C4D.blwf U0C1E_U0C4D.blwf U0C1F_U0C4D.blwf U0C20_U0C4D.blwf U0C21_U0C4D.blwf U0C22_U0C4D.blwf U0C23_U0C4D.blwf U0C24_U0C4D.blwf U0C25_U0C4D.blwf U0C26_U0C4D.blwf U0C27_U0C4D.blwf U0C31_U0C4D.blwf U0C32_U0C4D.blwf U0C37_U0C4D.blwf U0C39_U0C4D.blwf ] by ai_extended ;
+script telu;
+lookup blws0 {
+sub U0C16 U0C30_U0C4D.blwf' by glyph493 ;
+} blws0;
+lookup blws1 {
+sub U0C19 U0C30_U0C4D.blwf' by glyph493 ;
+} blws1;
+lookup blws2 {
+sub U0C1A U0C30_U0C4D.blwf' by glyph493 ;
+} blws2;
+lookup blws3 {
+sub U0C1B U0C30_U0C4D.blwf' by glyph493 ;
+} blws3;
+lookup blws4 {
+sub U0C1C U0C30_U0C4D.blwf' by glyph493 ;
+} blws4;
+lookup blws5 {
+sub U0C21 U0C30_U0C4D.blwf' by glyph493 ;
+} blws5;
+lookup blws6 {
+sub U0C22 U0C30_U0C4D.blwf' by glyph493 ;
+} blws6;
+lookup blws7 {
+sub U0C25 U0C30_U0C4D.blwf' by glyph493 ;
+} blws7;
+lookup blws8 {
+sub U0C26 U0C30_U0C4D.blwf' by glyph493 ;
+} blws8;
+lookup blws9 {
+sub U0C27 U0C30_U0C4D.blwf' by glyph493 ;
+} blws9;
+lookup blws10 {
+sub U0C28 U0C30_U0C4D.blwf' by glyph493 ;
+} blws10;
+lookup blws11 {
+sub U0C2C U0C30_U0C4D.blwf' by glyph493 ;
+} blws11;
+lookup blws12 {
+sub U0C2D U0C30_U0C4D.blwf' by glyph493 ;
+} blws12;
+lookup blws13 {
+sub U0C37 U0C30_U0C4D.blwf' by glyph493 ;
+} blws13;
+lookup blws14 {
+sub U0C19_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws14;
+lookup blws15 {
+sub U0C1A_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws15;
+lookup blws16 {
+sub U0C1B_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws16;
+lookup blws17 {
+sub U0C1C_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws17;
+lookup blws18 {
+sub U0C21_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws18;
+lookup blws19 {
+sub U0C22_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws19;
+lookup blws20 {
+sub U0C24_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws20;
+lookup blws21 {
+sub U0C25_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws21;
+lookup blws22 {
+sub U0C26_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws22;
+lookup blws23 {
+sub U0C27_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws23;
+lookup blws24 {
+sub U0C28_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws24;
+lookup blws25 {
+sub U0C2C_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws25;
+lookup blws26 {
+sub U0C2D_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws26;
+lookup blws27 {
+sub U0C2E_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws27;
+lookup blws28 {
+sub U0C37_U0C3F.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws28;
+lookup blws29 {
+sub U0C19_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws29;
+lookup blws30 {
+sub U0C1A_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws30;
+lookup blws31 {
+sub U0C1B_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws31;
+lookup blws32 {
+sub U0C1C_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws32;
+lookup blws33 {
+sub U0C21_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws33;
+lookup blws34 {
+sub U0C22_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws34;
+lookup blws35 {
+sub U0C24_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws35;
+lookup blws36 {
+sub U0C25_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws36;
+lookup blws37 {
+sub U0C26_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws37;
+lookup blws38 {
+sub U0C27_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws38;
+lookup blws39 {
+sub U0C28_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws39;
+lookup blws40 {
+sub U0C2C_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws40;
+lookup blws41 {
+sub U0C2D_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws41;
+lookup blws42 {
+sub U0C32_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws42;
+lookup blws43 {
+sub U0C37_U0C40.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws43;
+lookup blws44 {
+sub U0C16_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws44;
+lookup blws45 {
+sub U0C17_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws45;
+lookup blws46 {
+sub U0C18_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws46;
+lookup blws47 {
+sub U0C1B_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws47;
+lookup blws48 {
+sub U0C1C_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws48;
+lookup blws49 {
+sub U0C21_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws49;
+lookup blws50 {
+sub U0C22_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws50;
+lookup blws51 {
+sub U0C24_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws51;
+lookup blws52 {
+sub U0C25_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws52;
+lookup blws53 {
+sub U0C26_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws53;
+lookup blws54 {
+sub U0C27_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws54;
+lookup blws55 {
+sub U0C28_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws55;
+lookup blws56 {
+sub U0C2C_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws56;
+lookup blws57 {
+sub U0C2D_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws57;
+lookup blws58 {
+sub U0C32_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws58;
+lookup blws59 {
+sub U0C37_U0C46.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws59;
+lookup blws60 {
+sub U0C16_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws60;
+lookup blws61 {
+sub U0C19_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws61;
+lookup blws62 {
+sub U0C1A_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws62;
+lookup blws63 {
+sub U0C1B_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws63;
+lookup blws64 {
+sub U0C1C_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws64;
+lookup blws65 {
+sub U0C21_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws65;
+lookup blws66 {
+sub U0C22_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws66;
+lookup blws67 {
+sub U0C24_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws67;
+lookup blws68 {
+sub U0C25_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws68;
+lookup blws69 {
+sub U0C26_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws69;
+lookup blws70 {
+sub U0C27_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws70;
+lookup blws71 {
+sub U0C28_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws71;
+lookup blws72 {
+sub U0C2C_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws72;
+lookup blws73 {
+sub U0C2D_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws73;
+lookup blws74 {
+sub U0C32_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws74;
+lookup blws75 {
+sub U0C37_U0C47.abvs U0C30_U0C4D.blwf' by glyph493 ;
+} blws75;
+lookup blws76 {
+sub U0C16_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws76;
+lookup blws77 {
+sub U0C19_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws77;
+lookup blws78 {
+sub U0C1A_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws78;
+lookup blws79 {
+sub U0C1B_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws79;
+lookup blws80 {
+sub U0C1C_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws80;
+lookup blws81 {
+sub U0C21_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws81;
+lookup blws82 {
+sub U0C22_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws82;
+lookup blws83 {
+sub U0C24_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws83;
+lookup blws84 {
+sub U0C25_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws84;
+lookup blws85 {
+sub U0C26_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws85;
+lookup blws86 {
+sub U0C27_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws86;
+lookup blws87 {
+sub U0C28_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws87;
+lookup blws88 {
+sub U0C2C_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws88;
+lookup blws89 {
+sub U0C2D_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws89;
+lookup blws90 {
+sub U0C32_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws90;
+lookup blws91 {
+sub U0C37_U0C4D.haln U0C30_U0C4D.blwf' by glyph493 ;
+} blws91;
+lookup blws92 {
+sub U0C1E U0C30_U0C4D.blwf' by glyph494 ;
+} blws92;
+lookup blws93 {
+sub U0C1F U0C30_U0C4D.blwf' by glyph494 ;
+} blws93;
+lookup blws94 {
+sub U0C23 U0C30_U0C4D.blwf' by glyph494 ;
+} blws94;
+lookup blws95 {
+sub U0C31 U0C30_U0C4D.blwf' by glyph494 ;
+} blws95;
+lookup blws96 {
+sub U0C16_U0C3F.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws96;
+lookup blws97 {
+sub U0C1B_U0C3F.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws97;
+lookup blws98 {
+sub U0C1F_U0C3F.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws98;
+lookup blws99 {
+sub U0C23_U0C3F.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws99;
+lookup blws100 {
+sub U0C31_U0C3F.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws100;
+lookup blws101 {
+sub U0C16_U0C40.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws101;
+lookup blws102 {
+sub U0C1E_U0C40.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws102;
+lookup blws103 {
+sub U0C1F_U0C40.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws103;
+lookup blws104 {
+sub U0C23_U0C40.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws104;
+lookup blws105 {
+sub U0C31_U0C40.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws105;
+lookup blws106 {
+sub U0C1F_U0C46.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws106;
+lookup blws107 {
+sub U0C23_U0C46.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws107;
+lookup blws108 {
+sub U0C31_U0C46.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws108;
+lookup blws109 {
+sub U0C1F_U0C47.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws109;
+lookup blws110 {
+sub U0C23_U0C47.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws110;
+lookup blws111 {
+sub U0C31_U0C47.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws111;
+lookup blws112 {
+sub U0C15_U0C4A.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws112;
+lookup blws113 {
+sub U0C17_U0C4A.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws113;
+lookup blws114 {
+sub U0C30_U0C4A.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws114;
+lookup blws115 {
+sub U0C33_U0C4A.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws115;
+lookup blws116 {
+sub U0C36_U0C4A.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws116;
+lookup blws117 {
+sub U0C37_U0C4A.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws117;
+lookup blws118 {
+sub U0C15_U0C4B.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws118;
+lookup blws119 {
+sub U0C17_U0C4B.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws119;
+lookup blws120 {
+sub U0C30_U0C4B.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws120;
+lookup blws121 {
+sub U0C33_U0C4B.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws121;
+lookup blws122 {
+sub U0C36_U0C4B.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws122;
+lookup blws123 {
+sub U0C35_U0C4B.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws123;
+lookup blws124 {
+sub U0C2F_U0C4C.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws124;
+lookup blws125 {
+sub U0C17_U0C4C.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws125;
+lookup blws126 {
+sub U0C25_U0C4C.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws126;
+lookup blws127 {
+sub U0C36_U0C4C.abvs U0C30_U0C4D.blwf' by glyph494 ;
+} blws127;
+lookup blws128 {
+sub U0C15_U0C4C_U0C37_U0C4D.akhn U0C30_U0C4D.blwf' by glyph494 ;
+} blws128;
+lookup blws129 {
+sub U0C1E_U0C4D.haln U0C30_U0C4D.blwf' by glyph494 ;
+} blws129;
+lookup blws130 {
+sub U0C1F_U0C4D.haln U0C30_U0C4D.blwf' by glyph494 ;
+} blws130;
+lookup blws131 {
+sub U0C23_U0C4D.haln U0C30_U0C4D.blwf' by glyph494 ;
+} blws131;
+lookup blws132 {
+sub U0C31_U0C4D.haln U0C30_U0C4D.blwf' by glyph494 ;
+} blws132;
+lookup blws133 {
+sub U0C18 U0C30_U0C4D.blwf' by glyph495 ;
+} blws133;
+lookup blws134 {
+sub U0C1D U0C30_U0C4D.blwf' by glyph495 ;
+} blws134;
+lookup blws135 {
+sub U0C2E U0C30_U0C4D.blwf' by glyph495 ;
+} blws135;
+lookup blws136 {
+sub U0C2F U0C30_U0C4D.blwf' by glyph495 ;
+} blws136;
+lookup blws137 {
+sub U0C39 U0C30_U0C4D.blwf' by glyph494 ;
+} blws137;
+lookup blws138 {
+sub U0C16_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws138;
+lookup blws139 {
+sub U0C17_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws139;
+lookup blws140 {
+sub U0C18_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws140;
+lookup blws141 {
+sub U0C19_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws141;
+lookup blws142 {
+sub U0C1A_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws142;
+lookup blws143 {
+sub U0C1B_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws143;
+lookup blws144 {
+sub U0C1C_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws144;
+lookup blws145 {
+sub U0C1D_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws145;
+lookup blws146 {
+sub U0C1E_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws146;
+lookup blws147 {
+sub U0C1F_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws147;
+lookup blws148 {
+sub U0C20_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws148;
+lookup blws149 {
+sub U0C21_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws149;
+lookup blws150 {
+sub U0C22_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws150;
+lookup blws151 {
+sub U0C23_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws151;
+lookup blws152 {
+sub U0C24_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws152;
+lookup blws153 {
+sub U0C25_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws153;
+lookup blws154 {
+sub U0C26_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws154;
+lookup blws155 {
+sub U0C27_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws155;
+lookup blws156 {
+sub U0C28_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws156;
+lookup blws157 {
+sub U0C2A_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws157;
+lookup blws158 {
+sub U0C2B_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws158;
+lookup blws159 {
+sub U0C2C_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws159;
+lookup blws160 {
+sub U0C2D_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws160;
+lookup blws161 {
+sub U0C2E_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws161;
+lookup blws162 {
+sub U0C2F_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws162;
+lookup blws163 {
+sub U0C30_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws163;
+lookup blws164 {
+sub U0C31_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws164;
+lookup blws165 {
+sub U0C32_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws165;
+lookup blws166 {
+sub U0C33_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws166;
+lookup blws167 {
+sub U0C35_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws167;
+lookup blws168 {
+sub U0C36_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws168;
+lookup blws169 {
+sub U0C37_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws169;
+lookup blws170 {
+sub U0C38_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws170;
+lookup blws171 {
+sub U0C39_U0C3E.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws171;
+lookup blws172 {
+sub U0C15_U0C3E_U0C37_U0C4D.akhn U0C30_U0C4D.blwf' by glyph495 ;
+} blws172;
+lookup blws173 {
+sub U0C18_U0C3F.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws173;
+lookup blws174 {
+sub U0C27_U0C3F.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws174;
+lookup blws175 {
+sub U0C2E_U0C3F.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws175;
+lookup blws176 {
+sub U0C2F_U0C3F.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws176;
+lookup blws177 {
+sub U0C39_U0C3F.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws177;
+lookup blws178 {
+sub U0C18_U0C40.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws178;
+lookup blws179 {
+sub U0C1D_U0C40.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws179;
+lookup blws180 {
+sub U0C2E_U0C40.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws180;
+lookup blws181 {
+sub U0C2F_U0C40.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws181;
+lookup blws182 {
+sub U0C39_U0C40.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws182;
+lookup blws183 {
+sub U0C18_U0C46.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws183;
+lookup blws184 {
+sub U0C1D_U0C46.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws184;
+lookup blws185 {
+sub U0C1E_U0C46.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws185;
+lookup blws186 {
+sub U0C2E_U0C46.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws186;
+lookup blws187 {
+sub U0C2F_U0C46.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws187;
+lookup blws188 {
+sub U0C39_U0C46.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws188;
+lookup blws189 {
+sub U0C18_U0C47.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws189;
+lookup blws190 {
+sub U0C1D_U0C47.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws190;
+lookup blws191 {
+sub U0C1E_U0C47.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws191;
+lookup blws192 {
+sub U0C23_U0C47.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws192;
+lookup blws193 {
+sub U0C24_U0C47.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws193;
+lookup blws194 {
+sub U0C2E_U0C47.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws194;
+lookup blws195 {
+sub U0C16_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws195;
+lookup blws196 {
+sub U0C18_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws196;
+lookup blws197 {
+sub U0C19_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws197;
+lookup blws198 {
+sub U0C1A_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws198;
+lookup blws199 {
+sub U0C1B_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws199;
+lookup blws200 {
+sub U0C1C_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws200;
+lookup blws201 {
+sub U0C1D_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws201;
+lookup blws202 {
+sub U0C1E_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws202;
+lookup blws203 {
+sub U0C1F_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws203;
+lookup blws204 {
+sub U0C20_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws204;
+lookup blws205 {
+sub U0C21_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws205;
+lookup blws206 {
+sub U0C22_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws206;
+lookup blws207 {
+sub U0C23_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws207;
+lookup blws208 {
+sub U0C24_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws208;
+lookup blws209 {
+sub U0C25_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws209;
+lookup blws210 {
+sub U0C26_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws210;
+lookup blws211 {
+sub U0C27_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws211;
+lookup blws212 {
+sub U0C28_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws212;
+lookup blws213 {
+sub U0C2A_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws213;
+lookup blws214 {
+sub U0C2B_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws214;
+lookup blws215 {
+sub U0C2C_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws215;
+lookup blws216 {
+sub U0C2D_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws216;
+lookup blws217 {
+sub U0C2E_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws217;
+lookup blws218 {
+sub U0C2F_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws218;
+lookup blws219 {
+sub U0C31_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws219;
+lookup blws220 {
+sub U0C32_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws220;
+lookup blws221 {
+sub U0C35_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws221;
+lookup blws222 {
+sub U0C37_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws222;
+lookup blws223 {
+sub U0C38_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws223;
+lookup blws224 {
+sub U0C39_U0C4A.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws224;
+lookup blws225 {
+sub U0C16_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws225;
+lookup blws226 {
+sub U0C18_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws226;
+lookup blws227 {
+sub U0C19_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws227;
+lookup blws228 {
+sub U0C1A_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws228;
+lookup blws229 {
+sub U0C1B_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws229;
+lookup blws230 {
+sub U0C1C_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws230;
+lookup blws231 {
+sub U0C1D_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws231;
+lookup blws232 {
+sub U0C1E_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws232;
+lookup blws233 {
+sub U0C1F_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws233;
+lookup blws234 {
+sub U0C20_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws234;
+lookup blws235 {
+sub U0C21_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws235;
+lookup blws236 {
+sub U0C22_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws236;
+lookup blws237 {
+sub U0C23_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws237;
+lookup blws238 {
+sub U0C24_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws238;
+lookup blws239 {
+sub U0C25_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws239;
+lookup blws240 {
+sub U0C26_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws240;
+lookup blws241 {
+sub U0C27_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws241;
+lookup blws242 {
+sub U0C28_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws242;
+lookup blws243 {
+sub U0C2A_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws243;
+lookup blws244 {
+sub U0C2B_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws244;
+lookup blws245 {
+sub U0C2C_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws245;
+lookup blws246 {
+sub U0C2D_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws246;
+lookup blws247 {
+sub U0C2E_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws247;
+lookup blws248 {
+sub U0C2F_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws248;
+lookup blws249 {
+sub U0C31_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws249;
+lookup blws250 {
+sub U0C32_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws250;
+lookup blws251 {
+sub U0C35_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws251;
+lookup blws252 {
+sub U0C37_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws252;
+lookup blws253 {
+sub U0C38_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws253;
+lookup blws254 {
+sub U0C39_U0C4B.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws254;
+lookup blws255 {
+sub U0C16_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws255;
+lookup blws256 {
+sub U0C18_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws256;
+lookup blws257 {
+sub U0C19_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws257;
+lookup blws258 {
+sub U0C22_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws258;
+lookup blws259 {
+sub U0C1C_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws259;
+lookup blws260 {
+sub U0C1D_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws260;
+lookup blws261 {
+sub U0C1E_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws261;
+lookup blws262 {
+sub U0C1F_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws262;
+lookup blws263 {
+sub U0C20_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws263;
+lookup blws264 {
+sub U0C21_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws264;
+lookup blws265 {
+sub U0C22_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws265;
+lookup blws266 {
+sub U0C23_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws266;
+lookup blws267 {
+sub U0C24_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws267;
+lookup blws268 {
+sub U0C25_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws268;
+lookup blws269 {
+sub U0C26_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws269;
+lookup blws270 {
+sub U0C27_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws270;
+lookup blws271 {
+sub U0C28_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws271;
+lookup blws272 {
+sub U0C2A_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws272;
+lookup blws273 {
+sub U0C2B_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws273;
+lookup blws274 {
+sub U0C2C_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws274;
+lookup blws275 {
+sub U0C2D_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws275;
+lookup blws276 {
+sub U0C2E_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws276;
+lookup blws277 {
+sub U0C2F_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws277;
+lookup blws278 {
+sub U0C31_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws278;
+lookup blws279 {
+sub U0C32_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws279;
+lookup blws280 {
+sub U0C33_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws280;
+lookup blws281 {
+sub U0C35_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws281;
+lookup blws282 {
+sub U0C37_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws282;
+lookup blws283 {
+sub U0C38_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws283;
+lookup blws284 {
+sub U0C39_U0C4C.abvs U0C30_U0C4D.blwf' by glyph495 ;
+} blws284;
+lookup blws285 {
+sub U0C18_U0C4D.haln U0C30_U0C4D.blwf' by glyph495 ;
+} blws285;
+lookup blws286 {
+sub U0C1D_U0C4D.haln U0C30_U0C4D.blwf' by glyph495 ;
+} blws286;
+lookup blws287 {
+sub U0C2E_U0C4D.haln U0C30_U0C4D.blwf' by glyph495 ;
+} blws287;
+lookup blws288 {
+sub U0C2F_U0C4D.haln U0C30_U0C4D.blwf' by glyph495 ;
+} blws288;
+lookup blws289 {
+sub U0C38_U0C4D.haln U0C30_U0C4D.blwf' by glyph495 ;
+} blws289;
+lookup blws290 {
+sub U0C1C_U0C41.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws290;
+lookup blws291 {
+sub U0C1C_U0C42.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws291;
+lookup blws292 {
+sub U0C2A_U0C41.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws292;
+lookup blws293 {
+sub U0C2A_U0C42.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws293;
+lookup blws294 {
+sub U0C2B_U0C41.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws294;
+lookup blws295 {
+sub U0C2B_U0C42.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws295;
+lookup blws296 {
+sub U0C35_U0C41.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws296;
+lookup blws297 {
+sub U0C35_U0C42.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws297;
+lookup blws298 {
+sub U0C15_U0C41.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws298;
+lookup blws299 {
+sub U0C21_U0C41.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws299;
+lookup blws300 {
+sub U0C22_U0C41.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws300;
+lookup blws301 {
+sub U0C39_U0C41.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws301;
+lookup blws302 {
+sub U0C15_U0C42.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws302;
+lookup blws303 {
+sub U0C21_U0C42.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws303;
+lookup blws304 {
+sub U0C22_U0C42.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws304;
+lookup blws305 {
+sub U0C39_U0C42.psts U0C30_U0C4D.blwf' by glyph495 ;
+} blws305;
+lookup blws306 {
+sub [U0C15_U0C4D.blwf U0C16_U0C4D.blwf U0C17_U0C4D.blwf U0C18_U0C4D.blwf U0C19_U0C4D.blwf U0C1A_U0C4D.blwf U0C1B_U0C4D.blwf U0C1C_U0C4D.blwf U0C1D_U0C4D.blwf U0C1E_U0C4D.blwf U0C1F_U0C4D.blwf U0C20_U0C4D.blwf U0C21_U0C4D.blwf U0C22_U0C4D.blwf U0C23_U0C4D.blwf U0C24_U0C4D.blwf U0C25_U0C4D.blwf U0C26_U0C4D.blwf U0C27_U0C4D.blwf U0C28_U0C4D.blwf U0C2A_U0C4D.blwf U0C2B_U0C4D.blwf U0C2C_U0C4D.blwf U0C2D_U0C4D.blwf U0C2E_U0C4D.blwf U0C2F_U0C4D.blwf U0C30_U0C4D.blwf U0C31_U0C4D.blwf U0C32_U0C4D.blwf U0C33_U0C4D.blwf U0C35_U0C4D.blwf U0C36_U0C4D.blwf U0C37_U0C4D.blwf U0C38_U0C4D.blwf U0C39_U0C4D.blwf U0C56_U0C24_U0C4D.blwf.blws glyph473 U0C15_U0C37_U0C4D.akhn U0C36_U0C40.abvs_U0C30_U0C4D.blwf.blws U0C38_U0C3F.abvs_U0C24_U0C4D.blwf_U0C30_ U0C37_U0C1F_U0C4D_U0C30_U0C4D U0C37_U0C1F_U0C30_U0C40.akhn U0C15_U0C37_U0C4D.akhn_U0C2E_U0C4D.blwf. U0C15_U0C3F_U0C37_U0C4D_U0C2E_ U0C15_U0C40_U0C37_U0C4D_U0C2E U0C37_U0C3F.abvs_U0C1F_U0C4D.blwf_U0C30_ U0C15_U0C41.psts U0C21_U0C41.psts U0C22_U0C41.psts U0C39_U0C41.psts U0C15_U0C42.psts U0C21_U0C42.psts U0C22_U0C42.psts U0C39_U0C42.psts glyph493 glyph494 glyph495 glyph496 glyph497 glyph498 glyph499 glyph500 glyph501 glyph502 glyph503 glyph504 glyph505 glyph506 glyph507 glyph508 glyph509 glyph510 glyph511 glyph512 glyph513 glyph514 ] U0C30_U0C4D.blwf' by glyph536 ;
+} blws306;
+lookup blws307 {
+sub U0C56 [U0C15_U0C4D.blwf U0C1A_U0C4D.blwf U0C1B_U0C4D.blwf U0C28_U0C4D.blwf U0C2A_U0C4D.blwf U0C2B_U0C4D.blwf U0C2C_U0C4D.blwf U0C2D_U0C4D.blwf U0C2E_U0C4D.blwf U0C2F_U0C4D.blwf U0C33_U0C4D.blwf U0C35_U0C4D.blwf U0C36_U0C4D.blwf U0C38_U0C4D.blwf ]' by [glyph496 glyph501 glyph502 glyph515 glyph516 glyph517 glyph518 glyph519 glyph520 glyph521 glyph525 glyph526 glyph527 glyph529 ];
+sub [U0C15_U0C4D.blwf U0C16_U0C4D.blwf U0C17_U0C4D.blwf U0C18_U0C4D.blwf U0C19_U0C4D.blwf U0C1A_U0C4D.blwf U0C1B_U0C4D.blwf U0C1C_U0C4D.blwf U0C1D_U0C4D.blwf U0C1E_U0C4D.blwf U0C1F_U0C4D.blwf U0C20_U0C4D.blwf U0C21_U0C4D.blwf U0C22_U0C4D.blwf U0C23_U0C4D.blwf U0C24_U0C4D.blwf U0C25_U0C4D.blwf U0C26_U0C4D.blwf U0C27_U0C4D.blwf U0C28_U0C4D.blwf U0C2A_U0C4D.blwf U0C2B_U0C4D.blwf U0C2C_U0C4D.blwf U0C2D_U0C4D.blwf U0C2E_U0C4D.blwf U0C2F_U0C4D.blwf U0C30_U0C4D.blwf U0C31_U0C4D.blwf U0C32_U0C4D.blwf U0C33_U0C4D.blwf U0C35_U0C4D.blwf U0C36_U0C4D.blwf U0C37_U0C4D.blwf U0C38_U0C4D.blwf U0C39_U0C4D.blwf ] [U0C15_U0C4D.blwf U0C16_U0C4D.blwf U0C17_U0C4D.blwf U0C18_U0C4D.blwf U0C19_U0C4D.blwf U0C1A_U0C4D.blwf U0C1B_U0C4D.blwf U0C1C_U0C4D.blwf U0C1D_U0C4D.blwf U0C1E_U0C4D.blwf U0C1F_U0C4D.blwf U0C20_U0C4D.blwf U0C21_U0C4D.blwf U0C22_U0C4D.blwf U0C23_U0C4D.blwf U0C24_U0C4D.blwf U0C25_U0C4D.blwf U0C26_U0C4D.blwf U0C27_U0C4D.blwf U0C28_U0C4D.blwf U0C2A_U0C4D.blwf U0C2B_U0C4D.blwf U0C2C_U0C4D.blwf U0C2D_U0C4D.blwf U0C2E_U0C4D.blwf U0C2F_U0C4D.blwf U0C31_U0C4D.blwf U0C32_U0C4D.blwf U0C33_U0C4D.blwf U0C35_U0C4D.blwf U0C36_U0C4D.blwf U0C37_U0C4D.blwf U0C38_U0C4D.blwf U0C39_U0C4D.blwf ]' by [glyph496 glyph497 glyph498 glyph499 glyph500 glyph501 glyph502 glyph503 glyph504 glyph505 glyph506 glyph507 glyph508 glyph509 glyph510 glyph511 glyph512 glyph513 glyph514 glyph515 glyph516 glyph517 glyph518 glyph519 glyph520 glyph521 glyph523 glyph524 glyph525 glyph526 glyph527 glyph528 glyph529 glyph530 ];
+} blws307;
+lookup blws308 {
+sub U0C56 U0C30_U0C4D.blwf' by glyph536 ;
+} blws308;
+lookup blws309 {
+sub U0C37 U0C1F_U0C4D.blwf U0C30_U0C4D.blwf by U0C37_U0C1F_U0C4D_U0C30_U0C4D;
+sub U0C38 U0C24_U0C4D.blwf U0C30_U0C4D.blwf by U0C38_U0C24_U0C4D_U0C30_U0C4D;
+sub U0C56 U0C24_U0C4D.blwf by U0C56_U0C24_U0C4D.blwf.blws;
+sub U0C37_U0C3F.abvs U0C1F_U0C4D.blwf U0C30_U0C4D.blwf by U0C37_U0C3F.abvs_U0C1F_U0C4D.blwf_U0C30_;
+sub U0C38_U0C3F.abvs U0C24_U0C4D.blwf U0C30_U0C4D.blwf by U0C38_U0C3F.abvs_U0C24_U0C4D.blwf_U0C30_;
+sub U0C36_U0C40.abvs U0C30_U0C4D.blwf by U0C36_U0C40.abvs_U0C30_U0C4D.blwf.blws;
+sub U0C37_U0C40.abvs U0C1F_U0C4D.blwf U0C30_U0C4D.blwf by U0C37_U0C1F_U0C30_U0C40.akhn;
+sub U0C38_U0C40.abvs U0C24_U0C4D.blwf U0C30_U0C4D.blwf by U0C38_U0C24_U0C30_U0C40;
+sub U0C15_U0C4D.blwf U0C37_U0C4D.blwf U0C2F_U0C4D.blwf by U0C15_U0C4D_U0C37_U0C4D_U0C2F_;
+sub U0C15_U0C4D.blwf glyph536 by U0C15_U0C4D_U0C30_U0C4D;
+sub U0C15_U0C4D.blwf U0C43 by U0C15_U0C4D.blwf_U0C43;
+sub U0C19_U0C4D.blwf glyph498 by U0C19_U0C4D_U0C17_U0C4D;
+sub U0C1C_U0C4D.blwf glyph521 by U0C1C_U0C4D_U0C2F_U0C4D;
+sub U0C1F_U0C4D.blwf U0C32_U0C4D.blwf by U0C1F_U0C4D_U0C32_U0C4D;
+sub U0C1F_U0C4D.blwf glyph536 by glyph473;
+sub U0C24_U0C4D.blwf U0C43 by U0C2A_U0C4D.blwf_U0C43;
+sub U0C24_U0C4D.blwf glyph536 by U0C24_U0C4D.blwf_U0C30_U0C4D;
+sub U0C26_U0C4D.blwf ai_extended glyph536 by glyph536_U0C;
+sub U0C2A_U0C4D.blwf U0C43 by U0C24_U0C4D.blwf_U0C43;
+sub U0C2A_U0C4D.blwf glyph536 by U0C2A_U0C4D_U0C30_U0C4D;
+sub U0C30_U0C4D.blwf glyph521 by U0C30_U0C4D_U0C2F_U0C4D;
+sub U0C37_U0C4D.blwf glyph510 by U0C37_U0C4D_U0C23_U0C4D;
+sub U0C38_U0C4D.blwf glyph515 by U0C38_U0C4D_U0C28_U0C4D;
+sub U0C15_U0C4D.blwf_U0C37_U0C4D U0C2E_U0C4D.blwf by U0C15_U0C37_U0C4D_U0C2E_U0C4D;
+sub glyph493 U0C2F_U0C4D.blwf by U0C30_U0C4D_U0C2F_U0C4D;
+} blws309;
+} blws;
+
+feature haln {
+script telu;
+lookupflag IgnoreMarks;
+sub U0C15 U0C4D by U0C15_U0C4D.haln;
+sub U0C16 U0C4D by U0C16_U0C4D.haln;
+sub U0C17 U0C4D by U0C17_U0C4D.haln;
+sub U0C18 U0C4D by U0C18_U0C4D.haln;
+sub U0C19 U0C4D by U0C19_U0C4D.haln;
+sub U0C1A U0C4D by U0C1A_U0C4D.haln;
+sub U0C1B U0C4D by U0C1B_U0C4D.haln;
+sub U0C1C U0C4D by U0C1C_U0C4D.haln;
+sub U0C1D U0C4D by U0C1D_U0C4D.haln;
+sub U0C1E U0C4D by U0C1E_U0C4D.haln;
+sub U0C1F U0C4D by U0C1F_U0C4D.haln;
+sub U0C20 U0C4D by U0C20_U0C4D.haln;
+sub U0C21 U0C4D by U0C21_U0C4D.haln;
+sub U0C22 U0C4D by U0C22_U0C4D.haln;
+sub U0C23 U0C4D by U0C23_U0C4D.haln;
+sub U0C24 U0C4D by U0C24_U0C4D.haln;
+sub U0C25 U0C4D by U0C25_U0C4D.haln;
+sub U0C26 U0C4D by U0C26_U0C4D.haln;
+sub U0C27 U0C4D by U0C27_U0C4D.haln;
+sub U0C28 U0C4D by U0C28_U0C4D.haln;
+sub U0C2A U0C4D by U0C2A_U0C4D.haln;
+sub U0C2B U0C4D by U0C2B_U0C4D.haln;
+sub U0C2C U0C4D by U0C2C_U0C4D.haln;
+sub U0C2D U0C4D by U0C2D_U0C4D.haln;
+sub U0C2E U0C4D by U0C2E_U0C4D.haln;
+sub U0C2F U0C4D by U0C2F_U0C4D.haln;
+sub U0C30 U0C4D by U0C30_U0C4D.haln;
+sub U0C31 U0C4D by U0C31_U0C4D.haln;
+sub U0C32 U0C4D by U0C32_U0C4D.haln;
+sub U0C33 U0C4D by U0C33_U0C4D.haln;
+sub U0C35 U0C4D by U0C35_U0C4D.haln;
+sub U0C36 U0C4D by U0C36_U0C4D.haln;
+sub U0C37 U0C4D by U0C37_U0C4D.haln;
+sub U0C38 U0C4D by U0C38_U0C4D.haln;
+sub U0C39 U0C4D by U0C39_U0C4D.haln;
+sub U0C15_U0C37_U0C4D.akhn U0C4D by U0C15_U0C37_U0C4D.akhn_U0C4D.haln;
+} haln;
+
+feature psts {
+script telu;
+lookup psts0 {
+sub U0C15 U0C41 by U0C15_U0C41.psts;
+sub U0C15 U0C42 by U0C15_U0C42.psts;
+sub U0C16 U0C41 by U0C16_U0C41.psts;
+sub U0C17 U0C41 by U0C17_U0C41.psts;
+sub U0C18 U0C41 by U0C18_U0C41.psts;
+sub U0C19 U0C41 by U0C19_U0C41.psts;
+sub U0C1A U0C42 by U0C1A_U0C42.psts;
+sub U0C1A U0C41 by U0C1A_U0C41.psts;
+sub U0C1B U0C42 by U0C1B_U0C42.psts;
+sub U0C1B U0C41 by U0C1B_U0C41.psts;
+sub U0C1C U0C42 by U0C1C_U0C42.psts;
+sub U0C1C U0C41 by U0C1C_U0C41.psts;
+sub U0C1D U0C41 by U0C1D_U0C41.psts;
+sub U0C1E U0C41 by U0C1E_U0C41.psts;
+sub U0C1F U0C41 by U0C1F_U0C41.psts;
+sub U0C20 U0C41 by U0C20_U0C41.psts;
+sub U0C21 U0C42 by U0C21_U0C42.psts;
+sub U0C21 U0C41 by U0C21_U0C41.psts;
+sub U0C22 U0C42 by U0C22_U0C42.psts;
+sub U0C22 U0C41 by U0C22_U0C41.psts;
+sub U0C23 U0C41 by U0C23_U0C41.psts;
+sub U0C24 U0C41 by U0C24_U0C41.psts;
+sub U0C25 U0C41 by U0C25_U0C41.psts;
+sub U0C26 U0C41 by U0C26_U0C41.abvs;
+sub U0C27 U0C41 by U0C27_U0C41.psts;
+sub U0C28 U0C41 by U0C28_U0C41.psts;
+sub U0C2A U0C42 by U0C2A_U0C42.psts;
+sub U0C2A U0C41 by U0C2A_U0C41.psts;
+sub U0C2B U0C42 by U0C2B_U0C42.psts;
+sub U0C2B U0C41 by U0C2B_U0C41.psts;
+sub U0C2C U0C41 by U0C2C_U0C41.psts;
+sub U0C2D U0C41 by U0C2D_U0C41.psts;
+sub U0C2E U0C41 by U0C2E_U0C41.psts;
+sub U0C2F U0C41 by U0C2F_U0C41.psts;
+sub U0C30 U0C41 by U0C30_U0C41.psts;
+sub U0C31 U0C41 by U0C31_U0C41.psts;
+sub U0C32 U0C42 by U0C32_U0C42.psts;
+sub U0C32 U0C41 by U0C32_U0C41.psts;
+sub U0C33 U0C41 by U0C33_U0C41.psts;
+sub U0C35 U0C42 by U0C35_U0C42.psts;
+sub U0C35 U0C41 by U0C35_U0C41.psts;
+sub U0C36 U0C41 by U0C36_U0C41.psts;
+sub U0C37 U0C41 by U0C37_U0C41.psts;
+sub U0C38 U0C41 by U0C38_U0C41.psts;
+sub U0C39 U0C42 by U0C39_U0C42.psts;
+sub U0C39 U0C41 by U0C39_U0C41.psts;
+sub U0C37_U0C41.psts glyph473 by glyph473_U0C;
+sub U0C15_U0C3E_U0C37_U0C4D.akhn U0C2F_U0C4D.blwf by glyph531;
+sub U0C15_U0C3F_U0C37_U0C4D.akhn U0C2E_U0C4D.blwf by U0C15_U0C3F_U0C37_U0C4D_U0C2E_;
+sub U0C15_U0C40_U0C37_U0C4D.akhn U0C2E_U0C4D.blwf by U0C15_U0C40_U0C37_U0C4D_U0C2E;
+sub U0C36_U0C4D.blwf U0C56 by U0C36_U0C4D_U0C56;
+sub U0C37_U0C4D.blwf glyph506 U0C2F_U0C4D.blwf by U0C37_U0C4D_U0C1F_U0C4D;
+sub U0C15_U0C37_U0C4D.akhn U0C2F_U0C4D.blwf by U0C15_U0C37_U0C4D_U0C2F_U0C4D;
+sub U0C15_U0C37_U0C4D.akhn U0C2E_U0C4D.blwf by U0C15_U0C37_U0C4D.akhn_U0C2E_U0C4D.blwf.;
+} psts0;
+lookup psts1 {
+# Problem with lookup
+} psts1;
+} psts;
+

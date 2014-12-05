@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>938</integer>
+	<key>capHeight</key>
+	<integer>0</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2011 Silicon Andhra</string>
+	<key>descender</key>
+	<integer>-684</integer>
+	<key>familyName</key>
+	<string>Ravi Prakash</string>
+	<key>license</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL</string>
+	<key>licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/02/20 16:41:50</string>
+	<key>openTypeNameDesigner</key>
+	<string>Appaji Ambarisha Darbha</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>adityafonts.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Ravi Prakash</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1024</integer>
+	<key>vendorID</key>
+	<string>SA  </string>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>0</integer>
+</dict>
+</plist>
