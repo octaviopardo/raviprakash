@@ -3,17 +3,17 @@
   <advance width="362"/>
   <unicode hex="0022"/>
   <outline>
-	<contour>
-	  <point x="62" y="367" type="line"/>
-	  <point x="32" y="581" type="line"/>
-	  <point x="146" y="590" type="line"/>
-	  <point x="123" y="370" type="line"/>
-	</contour>
-	<contour>
-	  <point x="246" y="367" type="line"/>
-	  <point x="216" y="581" type="line"/>
-	  <point x="330" y="590" type="line"/>
-	  <point x="307" y="370" type="line"/>
-	</contour>
+    <contour>
+      <point x="62" y="367" type="line"/>
+      <point x="32" y="581" type="line"/>
+      <point x="146" y="590" type="line"/>
+      <point x="123" y="370" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="367" type="line"/>
+      <point x="216" y="581" type="line"/>
+      <point x="330" y="590" type="line"/>
+      <point x="307" y="370" type="line"/>
+    </contour>
   </outline>
 </glyph>

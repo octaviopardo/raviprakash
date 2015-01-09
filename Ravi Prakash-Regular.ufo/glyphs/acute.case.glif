@@ -2,11 +2,11 @@
 <glyph name="acute.case" format="1">
   <advance width="350"/>
   <outline>
-	<contour>
-	  <point x="112" y="625" type="line"/>
-	  <point x="254" y="722" type="line"/>
-	  <point x="302" y="622" type="line"/>
-	  <point x="139" y="570" type="line"/>
-	</contour>
+    <contour>
+      <point x="112" y="625" type="line"/>
+      <point x="254" y="722" type="line"/>
+      <point x="302" y="622" type="line"/>
+      <point x="139" y="570" type="line"/>
+    </contour>
   </outline>
 </glyph>

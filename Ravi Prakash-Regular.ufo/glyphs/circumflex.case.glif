@@ -2,13 +2,13 @@
 <glyph name="circumflex.case" format="1">
   <advance width="370"/>
   <outline>
-	<contour>
-	  <point x="64" y="611" type="line"/>
-	  <point x="157" y="721" type="line"/>
-	  <point x="306" y="647" type="line"/>
-	  <point x="246" y="575" type="line"/>
-	  <point x="186" y="625" type="line"/>
-	  <point x="91" y="573" type="line"/>
-	</contour>
+    <contour>
+      <point x="64" y="611" type="line"/>
+      <point x="157" y="721" type="line"/>
+      <point x="306" y="647" type="line"/>
+      <point x="246" y="575" type="line"/>
+      <point x="186" y="625" type="line"/>
+      <point x="91" y="573" type="line"/>
+    </contour>
   </outline>
 </glyph>

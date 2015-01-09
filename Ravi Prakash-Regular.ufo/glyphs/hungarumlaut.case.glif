@@ -2,17 +2,17 @@
 <glyph name="hungarumlaut.case" format="1">
   <advance width="409"/>
   <outline>
-	<contour>
-	  <point x="60" y="607" type="line"/>
-	  <point x="167" y="725" type="line"/>
-	  <point x="229" y="642" type="line"/>
-	  <point x="89" y="566" type="line"/>
-	</contour>
-	<contour>
-	  <point x="236" y="607" type="line"/>
-	  <point x="343" y="725" type="line"/>
-	  <point x="405" y="642" type="line"/>
-	  <point x="265" y="566" type="line"/>
-	</contour>
+    <contour>
+      <point x="60" y="607" type="line"/>
+      <point x="167" y="725" type="line"/>
+      <point x="229" y="642" type="line"/>
+      <point x="89" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="607" type="line"/>
+      <point x="343" y="725" type="line"/>
+      <point x="405" y="642" type="line"/>
+      <point x="265" y="566" type="line"/>
+    </contour>
   </outline>
 </glyph>

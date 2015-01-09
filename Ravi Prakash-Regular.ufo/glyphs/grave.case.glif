@@ -2,11 +2,11 @@
 <glyph name="grave.case" format="1">
   <advance width="350"/>
   <outline>
-	<contour>
-	  <point x="136" y="722" type="line"/>
-	  <point x="278" y="625" type="line"/>
-	  <point x="251" y="570" type="line"/>
-	  <point x="88" y="622" type="line"/>
-	</contour>
+    <contour>
+      <point x="136" y="722" type="line"/>
+      <point x="278" y="625" type="line"/>
+      <point x="251" y="570" type="line"/>
+      <point x="88" y="622" type="line"/>
+    </contour>
   </outline>
 </glyph>
